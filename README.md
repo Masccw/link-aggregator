@@ -1,6 +1,6 @@
-# cyber-link-tree
+# link-aggregator
 
-🛸 Cyber-Link Tree | Marina Carvalho
+## link-aggregator | Marina Carvalho
 A high-performance, Cyberpunk-inspired personal landing page built with a focus on modern UI/UX and clean code. This project serves as a centralized hub for my professional links, social media, and portfolio, featuring a neon-futuristic aesthetic.
 
 ## Features
@@ -27,11 +27,11 @@ Tip: You can add a screenshot of your finished page here!
 Clone this repository:
 
 Bash
-git clone https://github.com/masccw/cyber-link-tree.git
+git clone https://github.com/masccw/link-aggregator.git
 Navigate to the project folder:
 
 Bash
-cd cyber-link-tree
+cd link-aggregator
 Open index.html in your favorite browser.
 
 ## Customization
